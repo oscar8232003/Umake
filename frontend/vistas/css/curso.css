@@ -1,0 +1,50 @@
+/*Pagina CURSO */
+.abuelo-recursos{
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+
+.recursos{
+	font-size: 15px;
+	padding: 6px 25px;
+	display: block;
+}
+.btn-collap{
+margin:5px;
+}
+.text-center{
+	margin-bottom: 25px;
+}
+
+.enlaces-cursos{
+	font-size: 15px;	
+}
+
+.padre-video{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+.titulo-curso{
+ margin-top: 0px;
+
+}
+
+/*Pagina CURSO-REPRODUCTOR*/
+.seccion-videos p{
+	font-size: 15px;
+}
+
+.error404{
+	background:white;
+}
+
+.hr{
+margin:5px;	
+}
+
+.titulo-perfil{
+  margin-top: 0px;	
+}
